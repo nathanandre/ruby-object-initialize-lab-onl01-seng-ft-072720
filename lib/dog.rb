@@ -17,4 +17,6 @@ class Dog
 end 
     
 
-    
+def add(a, b=10)
+  a + b
+end
